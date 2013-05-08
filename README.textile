@@ -1,11 +1,2 @@
 h2. git-wtf
-
-h3. Maintenance
-
-Current (?) known maintainer: William Morgan
-Information page: http://git-wt-commit.rubyforge.org/#git-wtf
-Gitorious repository: https://gitorious.org/willgit/mainline
-Homebrew formula: https://github.com/mxcl/homebrew/blob/master/Library/Formula/willgit.rb 
-(installation through homebrew is apparently supported)
-
-<code>git-wtf</code> is not maintained here. The last known and maintained version of <code>git-wtf</code> can be found on gitorious. Pull requests and issues should be sent to the main repository.
+This script originally is from William Morgan (http://git-wt-commit.rubyforge.org/#git-wtf) (thanks bro!) but the regarding github repo actually isn't maintained. So this is a fork of William's script with some improvments of myself.
